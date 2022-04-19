@@ -29,7 +29,7 @@ namespace ResponsiPemrograman4290
             Console.Write("2 "); karyawan2.tampilkanData();
 
             Console.WriteLine();
-            Console.WriteLine("tekan sembarang key untuk menyudahi....");
+            Console.WriteLine("Tekan tombol apa saja untuk melanjutkan....");
             Console.ReadKey();
         }
     }
