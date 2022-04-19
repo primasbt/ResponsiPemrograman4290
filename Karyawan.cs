@@ -40,7 +40,7 @@ namespace ResponsiPemrograman4290
             Console.WriteLine("{0} {1}      {2}", NIK, nama, gaji);
         }
 
-        public void naikGaji()
+        public void naikGajiKaryawan()
         {
             int kenaikan;
 
