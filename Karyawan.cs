@@ -47,7 +47,7 @@ namespace ResponsiPemrograman4290
             kenaikan = gaji * 110;
             gaji = kenaikan / 100;
 
-            Console.WriteLine("asyik naik gaji 10%");
+            Console.WriteLine("SELAMAT GAJI ANDA NAIK 10%");
         }
     }
 }
